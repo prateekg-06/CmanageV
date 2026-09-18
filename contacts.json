@@ -1,0 +1,47 @@
+[
+    {
+        "id": "A1B2C3D4",
+        "name": "Rajesh Kumar",
+        "company": "TechSolutions Pvt Ltd",
+        "email": "rajesh.kumar@techsolutions.in",
+        "phone": "+91-98765-43210",
+        "category": "Client",
+        "created_at": "2025-01-10 09:30"
+    },
+    {
+        "id": "E5F6G7H8",
+        "name": "Priya Sharma",
+        "company": "Global Supplies Co.",
+        "email": "priya.sharma@globalsupplies.com",
+        "phone": "+91-87654-32109",
+        "category": "Vendor",
+        "created_at": "2025-01-12 11:15"
+    },
+    {
+        "id": "I9J0K1L2",
+        "name": "Amit Verma",
+        "company": "InnovateTech Partners",
+        "email": "amit.verma@innovatetech.io",
+        "phone": "+91-76543-21098",
+        "category": "Partner",
+        "created_at": "2025-01-15 14:00"
+    },
+    {
+        "id": "M3N4O5P6",
+        "name": "Sunita Patel",
+        "company": "RetailMart India",
+        "email": "sunita.patel@retailmart.in",
+        "phone": "+91-65432-10987",
+        "category": "Client",
+        "created_at": "2025-02-01 10:45"
+    },
+    {
+        "id": "Q7R8S9T0",
+        "name": "Deepak Mehta",
+        "company": "CloudBase Services",
+        "email": "deepak.mehta@cloudbase.net",
+        "phone": "+91-54321-09876",
+        "category": "Vendor",
+        "created_at": "2025-02-10 16:20"
+    }
+]

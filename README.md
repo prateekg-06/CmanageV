@@ -1,4 +1,4 @@
-# 📇 Client & Vendor Contact Management System
+# 📇 CmanageV: Client - Vendor Management System
 
 A Python-based console application for managing business contacts for small and medium enterprises.
 
